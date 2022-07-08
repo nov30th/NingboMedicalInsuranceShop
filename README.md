@@ -1,0 +1,2 @@
+# NingboMedicalInsuranceShop
+宁波医保零售点位置
